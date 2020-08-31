@@ -1,0 +1,11 @@
+.vote_post{
+	width: 100%;
+	padding: 10px;
+	border:1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.vote_h{
+	margin-bottom: 50px;
+}
